@@ -45,7 +45,7 @@ Projetar uma estrutura de banco de dados normalizada e eficiente para gerenciar:
 
 ## Arquivos do Projeto
 
-- `modelgame_logica_hospital.pdf` — Diagrama lógico completo
+- `hospital_modelagem_logica.pdf` — Diagrama lógico completo
 
 ---
 
