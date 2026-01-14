@@ -7,13 +7,13 @@ Modelagem lógica de banco de dados para sistema de gestão hospitalar, desenvol
 
 ---
 
-## 📋 Contexto do Projeto
+## Contexto do Projeto
 
 Atividade prática realizada com o objetivo de aplicar conceitos de modelagem de dados e dominar a ferramenta Oracle Data Modeler. O projeto simula um sistema real de gestão hospitalar, abrangendo os principais processos e entidades de uma instituição de saúde.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Projetar uma estrutura de banco de dados normalizada e eficiente para gerenciar:
 
@@ -25,7 +25,7 @@ Projetar uma estrutura de banco de dados normalizada e eficiente para gerenciar:
 
 ---
 
-## 📐 Conceitos Aplicados
+## Conceitos Aplicados
 
 - Modelagem Lógica Relacional
 - Normalização de Dados
@@ -36,20 +36,20 @@ Projetar uma estrutura de banco de dados normalizada e eficiente para gerenciar:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Oracle Data Modeler** — Ferramenta de modelagem visual
 - **Modelagem Relacional** — Estruturação de banco de dados
 
 ---
 
-## 📄 Arquivos do Projeto
+## Arquivos do Projeto
 
 - `modelgame_logica_hospital.pdf` — Diagrama lógico completo
 
 ---
 
-## 💡 Diferenciais do Projeto
+## Diferenciais do Projeto
 
 - Modelagem completa e normalizada
 - Estrutura escalável para sistemas reais
@@ -58,7 +58,7 @@ Projetar uma estrutura de banco de dados normalizada e eficiente para gerenciar:
 
 ---
 
-## 📚 Aprendizados
+## Aprendizados
 
 Este projeto consolidou conhecimentos em:
 - Identificação de entidades e atributos
@@ -68,13 +68,13 @@ Este projeto consolidou conhecimentos em:
 
 ---
 
-## 📌 Nota
+## Nota
 
 Projeto acadêmico desenvolvido como parte do aprendizado em banco de dados e modelagem de sistemas no curso técnico em Ciência de Dados (CEDUP Timbó).
 
 ---
 
-## 📞 Contato
+## Contato
 
 **Diogo Zoboli**  
 E-mail: zobolidiogo@gmail.com  
